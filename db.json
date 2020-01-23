@@ -1,3 +1,18 @@
 {
-  "users": []
+  "users": [
+    {
+      "name": "Phùng Hữu Hưởng",
+      "phone": "123",
+      "id": "fh42Eo7G",
+      "email": "infor@coder.tokyo",
+      "password": "123456"
+    },
+    {
+      "name": "Thinh Pham",
+      "phone": "123123123123",
+      "id": "qY1BbSd3",
+      "email": "123",
+      "password": "123"
+    }
+  ]
 }

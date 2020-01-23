@@ -7,16 +7,9 @@ var router = express.Router();
 
 router.get('/', controller.index);
 
-
-function middleware1(req, res, next) {
-    next();
-};
-
-function middleware2(req, res, next) {
+router.get('/cookie', function(req, res, next) {
     res.send('Hello');
-};
-
-router.get('/test', middleware1, middleware2);
+});
 
 router.get('/search', controller.search);
 
