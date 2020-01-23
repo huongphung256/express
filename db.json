@@ -1,21 +1,3 @@
 {
-  "users": [
-    {
-      "name": "Quang",
-      "id": "-BS3B0Vn"
-    },
-    {
-      "name": "Thong",
-      "id": "TWZ6btXB"
-    },
-    {
-      "name": "Huong",
-      "id": "c5ZX4P6d"
-    },
-    {
-      "name": "Phùng Hữu Hưởng",
-      "phone": "0123",
-      "id": "qZOEGDqI"
-    }
-  ]
+  "users": []
 }
